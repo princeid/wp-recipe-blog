@@ -1,0 +1,35 @@
+
+# ignore everything in the "wp-content" directory, except:
+# "mu-plugins", "plugins", "themes" directory
+!.gitignore
+!wp-content/
+!wp-config.php
+
+wp-content/*
+!plugins/
+!themes/
+
+themes/*
+!themes/mytheme/
+
+themes/mytheme/assets/*
+!themes/mytheme/assets/css/
+!themes/mytheme/assets/js/
+
+uploads/*
+# ignore these plugins
+plugins/hello.php
+plugins/fakerpress
+plugins/quick-adsense-reloaded
+plugins/wordpress-popular-posts
+plugins/wp-subtitle
+
+webpack-example/
+
+# ignore node dependency directories
+node_modules/
+
+# ignore log files and databases
+*.log
+*.sql
+*.sqlite
