@@ -11,6 +11,7 @@ wp-content/*
 
 themes/*
 !themes/mytheme/
+!themes/index.php
 
 themes/mytheme/assets/*
 !themes/mytheme/assets/css/
@@ -23,6 +24,7 @@ plugins/fakerpress
 plugins/quick-adsense-reloaded
 plugins/wordpress-popular-posts
 plugins/wp-subtitle
+plugins/recipe.zip
 
 webpack-example/
 
