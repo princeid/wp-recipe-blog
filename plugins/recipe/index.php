@@ -1,7 +1,7 @@
 <?php
 /*
  * Plugin Name: Recipe
- * Description: A simple WordPress plugin that allows users to create recipes and rate those recipes
+ * Description: A WordPress plugin that allows users to create recipes and rate those recipes
  * Version: 1.0
  * Author: Prince
  * Author URI: https://google.com

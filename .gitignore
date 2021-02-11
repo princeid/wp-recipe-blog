@@ -21,6 +21,8 @@ uploads/*
 # ignore these plugins
 plugins/hello.php
 plugins/fakerpress
+plugins/advanced-custom-fields
+plugins/custom-post-type-ui
 plugins/quick-adsense-reloaded
 plugins/wordpress-popular-posts
 plugins/wp-subtitle
