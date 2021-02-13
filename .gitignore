@@ -1,7 +1,7 @@
 
 # ignore everything in the "wp-content" directory, except:
 # "mu-plugins", "plugins", "themes" directory
-!.gitignore
+.gitignore
 !wp-content/
 !wp-config.php
 
@@ -33,7 +33,5 @@ node_modules/
 *.log
 *.sql
 *.sqlite
-
-.gitignore
 
 .DS_Store
